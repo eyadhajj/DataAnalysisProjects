@@ -1,6 +1,7 @@
-# DataAnalysis_Project1
+# DataAnalysis_Projects
 Project 1 - Weather Datasets
+Project 2 - Car Datasets
 
-Expands on 15 questions to understand and develop a understanding of how Pandas works and data analysis with Python.
+A series on youtube to teach me about data analysis. The files include different methods to answer questions, modified questions, and added questions.
 
 https://youtu.be/4hYOkHijtNw
